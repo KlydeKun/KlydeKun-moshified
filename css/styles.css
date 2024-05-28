@@ -654,7 +654,8 @@ a {
 
 .block__header {
     text-align: center;
-    padding: 0.5rem;
+    /* padding: 0.5rem; */
+    margin-bottom: 4rem;
 }
 
 .block__heading {
